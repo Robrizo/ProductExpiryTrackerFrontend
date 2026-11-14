@@ -5,7 +5,7 @@ import { Link } from "react-router";
 const CallToActionSection = () => {
   return (
     <div className="bg-blue-50 py-24">
-      <div className="max-w-7xl mx-auto text-center">
+      <div className="max-w-7xl mx-auto text-center px-4 sm:px-6 lg:px-8">
         <h1 className="text-5xl text-gray-800 font-stylish font-semibold">
           Your shelves, always in date.
         </h1>
