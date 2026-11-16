@@ -27,7 +27,7 @@ const CallToActionSection = () => {
           </li>
         </ul>
         <Link
-          to={"/login"}
+          to={"/register"}
           className="mt-8 inline-block bg-blue-600 text-white font-medium p-4 rounded-full hover:bg-blue-700"
         >
           Create your free account
